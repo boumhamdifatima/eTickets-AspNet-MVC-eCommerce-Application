@@ -35,25 +35,39 @@ Before starting this project, make sure you have installed Visual Studio 2022.
 ## Features
 
 ### Authentication and authorization
-This feature allows the user to register and log in/out.
-There are two roles: user for clients and admin for the administrator.
-Authorization management is based on the two previous roles.
+- This feature allows the user to register and log in/out.
+
+- There are two roles: user for clients and admin for the administrator.
+
+- Authorization management is based on the two previous roles.
 
 
 ### Customer Features
-browse movie list
-view the details of a film
-Add/remove a movie ticket to cart
-View cart items
-Place an order using a Paypal payment.
-View a customer's order list.
+
+- Browse movie list
+
+- View the details of a film
+
+- Add/remove a movie ticket to cart
+
+- View cart items
+
+- Place an order using a Paypal payment.
+
+- View a customer's order list.
 
 ### Fonctionnalités pour l'admin
-Visualisertous utilisateurs
-Gérer les acteurs(ajouter, visualiser, modifier et supprimer)
-Gérer les producteurs(ajouter, visualiser, modifier et supprimer)
-Gerer les cinémas(ajouter, visualiser, modifier et supprimer)
-Gérer les films(ajouter, visualiser, modifier et supprimer)
+
+- Visualisertous utilisateurs
+
+- Gérer les acteurs(ajouter, visualiser, modifier et supprimer)
+
+- Gérer les producteurs(ajouter, visualiser, modifier et supprimer)
+
+- Gerer les cinémas(ajouter, visualiser, modifier et supprimer)
+
+- Gérer les films(ajouter, visualiser, modifier et supprimer)
+
 
 ## Contribute
 
